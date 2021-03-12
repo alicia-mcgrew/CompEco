@@ -10,4 +10,10 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 #Alicia McGrew
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+# Future link to CV
+
+# Future link to Research
+
+# Future link to Teaching
+
+# Future link to Contact
