@@ -8,6 +8,21 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+Git Commands in RStudio Terminal Tab
+git status  checks current status of repository (local vs. main branch)
+
+git add -A  stage the altered, uncommitted files (i.e., pre-commit/push step)
+
+git status recheck
+
+git commit -am ‘<brief descriptive message>’  makes local commit to R project ("am" = all, message)
+
+git status  recheck-- local branch may be ahead of main branch
+
+git push  push the changes up to the GitHub repo
+
+git pull pulls any changes from the main branch (do at the beginning of each session!)
+
 
 ## R Markdown
 
