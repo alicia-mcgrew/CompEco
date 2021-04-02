@@ -6,3 +6,7 @@ git commit -am ‘<brief descriptive message>’ # makes local commit to R proje
 git status #recheck-- local branch may be ahead of main branch
 git push #push the changes up to the GitHub repo
 git pull # pulls any changes from the main branch (do at the beginning of each session!)
+
+git log #gives record of all commits (when there is a :, means there are more log records to come
+
+git log --oneline #shows the commit record, but only one per line
