@@ -1,0 +1,2 @@
+. is any character or space
+\. a "period" in a standard search
